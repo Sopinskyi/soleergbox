@@ -35,7 +35,7 @@ export default function App() {
           />
           <div className="hidden sm:block">
             <div className="brand-serif text-xl tracking-wide" style={{ color: brand.cranberry }}>
-              MAISON SOLÉ
+              MAISON SOLÉEEEE
             </div>
             <div className="text-sm" style={{ color: brand.green }}>Holiday Gift Boxes</div>
           </div>
