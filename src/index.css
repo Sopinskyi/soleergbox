@@ -1,0 +1,33 @@
+/* index.css — Tailwind v4 + Katee site base styles  */
+@import "tailwindcss";
+
+/* --- Base Styles for Katee Site --- */
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #FAF7F2; /* cream */
+  color: #1E1E1E;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+button, a {
+  transition: all 0.2s ease;
+}
