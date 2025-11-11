@@ -31,3 +31,5 @@ button {
 button, a {
   transition: all 0.2s ease;
 }
+
+.brand-serif { font-family: "Playfair Display", serif; }
